@@ -32,14 +32,14 @@ In the appsettings.json the following optional values can be setup when users wa
 - CompressExt - A string (using a '|' delimeter) for the various compression extension types (eg. '.zip|.rar')
 
 ## Default Extensions
-Software = .exe.bat|.com|.cmd|.inf|.ipa|.osx|.pif|.run
-Music = .m4a|.flac|.mp3|.wav|.wma|.aac|.aiff|.alac|.dsd|.mqa|.ogg
-Photo = .jpeg|.gif|.png|.tiff|.psd|.ai|.indd|.raw|.svg|.eps|.xcf|.psd|.heif|.wdbp|.heic
-Video = .mp4|.mov|.wmv|.avi|.avchd|.flv|.f4v|.swf|.mkv|.webm|.vod|.mng|.asf|.amv|.mpeg|.mpg|mpv|.svi
-Document = .doc|.docx|.csv|.xls|.xlsx|.ppt|.pptx|.pdf|.txt|.json|.wpd|.rtf
-Code = .cs|.py|.ts|.c|.java|.php|.html|.css|.vb|.swift
-System = .sys|.tmp|.icns|.ini|.cgf|.msi|.ico|.dll|.cer|.crt|.pfx
-Compression = .zip|.rar|.pkg|.tar|.xz|.gzip|.iso|.gz|.7z|.s7z
+ - Software - .exe.bat|.com|.cmd|.inf|.ipa|.osx|.pif|.run
+- Music - .m4a|.flac|.mp3|.wav|.wma|.aac|.aiff|.alac|.dsd|.mqa|.ogg
+- Photo - .jpeg|.gif|.png|.tiff|.psd|.ai|.indd|.raw|.svg|.eps|.xcf|.psd|.heif|.wdbp|.heic
+- Video - .mp4|.mov|.wmv|.avi|.avchd|.flv|.f4v|.swf|.mkv|.webm|.vod|.mng|.asf|.amv|.mpeg|.mpg|mpv|.svi
+- Document - .doc|.docx|.csv|.xls|.xlsx|.ppt|.pptx|.pdf|.txt|.json|.wpd|.rtf
+- Code - .cs|.py|.ts|.c|.java|.php|.html|.css|.vb|.swift
+- System - .sys|.tmp|.icns|.ini|.cgf|.msi|.ico|.dll|.cer|.crt|.pfx
+- Compression - .zip|.rar|.pkg|.tar|.xz|.gzip|.iso|.gz|.7z|.s7z
 
 ## Contributing
 Pull requests are welcome!
